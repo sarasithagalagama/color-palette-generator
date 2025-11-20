@@ -4,12 +4,6 @@ A modern, aesthetic web application that generates harmonious color palettes. Bu
 
 ![Project Preview](./screenshot.png)
 
-## 🚀 Live Demo
-
-**[View Live Demo Here](#)** _(Replace this with your GitHub Pages or Netlify link)_
-
----
-
 ## ✨ Key Features
 
 - **🎲 Instant Generation:** Press `Spacebar` or click "Generate" to create unique color combinations instantly.
