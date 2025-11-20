@@ -84,10 +84,25 @@ button {
 }
 
 #save-btn:hover {
-  background-color: #ffeaea; /* Subtle pink tint */
+  background-color: #ffeaea;
   color: #ff6b6b;
   border-color: #ff6b6b;
 }
+
+/* NEW: Download Button Style */
+#download-btn {
+    background-color: #e0f2f1; /* A nice light teal/green */
+    color: #00796b;
+    border: 1px solid #c8e6c9;
+}
+
+#download-btn:hover {
+    background-color: #b2dfdb;
+    color: #004d40;
+    border-color: #80cbc4;
+}
+
+/* ... rest of your CSS ... */
 
 /* --- PALETTE GRID --- */
 .palette-container {
